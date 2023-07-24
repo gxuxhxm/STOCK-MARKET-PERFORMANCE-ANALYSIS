@@ -1,6 +1,8 @@
 # Stock Market Performance Analysis
 A MiniProject by [Goutham](https://github.com/gxuxhxm) , [Balaji](https://github.com/Balu-MRao) , [Sanjay](https://github.com/SANJAY-JAYADEV-2002)<br>
 ---
+[Samsung Innovation Campus](https://sic.edc.org/)
+---
  Import ```pandas``` and ```yfinance``` , ```datetime modules``` , ```plotly.express``` module
 
 ## Goals 🎯
