@@ -3,6 +3,10 @@ A MiniProject by [Goutham](https://github.com/gxuxhxm) , [Balaji](https://github
 ---
 [Samsung Innovation Campus](https://sic.edc.org/)
 ---
+
+This mini-project focuses on analyzing and visualizing the historical stock price data of a single company using Python. 🙌
+
+---
  Import ```pandas``` and ```yfinance``` , ```datetime modules``` , ```plotly.express``` module
 
 ## Goals 🎯
